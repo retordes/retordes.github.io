@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://retordes.github.io/sitemap.html.gz
+Sitemap: https://retordes.github.io/app/sitemap.html.gz
+Sitemap: https://retordes.github.io/assets/sitemap.html.gz
+Sitemap: https://retordes.github.io/css/sitemap.html.gz
+Sitemap: https://retordes.github.io/includes/sitemap.html.gz
+Sitemap: https://retordes.github.io/item/sitemap.html.gz
+Sitemap: https://retordes.github.io/src/sitemap.html.gz
